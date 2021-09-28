@@ -33,8 +33,8 @@ subtitle = ""
     
   [content.archive]
     enable = true
-    text = "See all blog posts"
-    link = "post/"
+    text = "View our project in Github"
+    link = "https://github.com/vision4robotics/SCT"
     
 [design]
   columns = "1"

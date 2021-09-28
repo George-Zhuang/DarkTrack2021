@@ -1,9 +1,10 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: A Demo of Sequences in DarkTrack2021
+subtitle: The green boxes mark the tracking objects, while the top left corner of the images
+display sequence names. Low brightness makes it hard to identify objects, which leads nighttime UAV tracking to an extremely challenging task.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: The DarkTrack2021 benchmark comprises 110 challenging sequences with 100K frames in total. All sequences are captured at nighttime in urban scenes with a frame-rate of 30 frames/s (FPS). Some first frames of selected sequences in DarkTrack2021 are displayed below.
 
 # Link this post with a project
 projects: []
