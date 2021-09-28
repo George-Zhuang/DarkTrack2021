@@ -1,6 +1,6 @@
 ---
 # Display name
-title: DarkTrack2021
+title: DarkTrack2021 Benchmark
 
 # Is this the primary user of the site?
 superuser: true
