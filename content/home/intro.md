@@ -18,6 +18,6 @@ design:
     color: '#090a0b'
     text_color_light: true
     video:
-      path: intro.webm
+      path: intro.mp4
 #  css_class: fullscreen
 ---
