@@ -31,6 +31,8 @@ subtitle = ""
     author = ""
     exclude_featured = false
     
+    {{< icon name="download" pack="fas" >}} <a href="https://pan.baidu.com/s/1x8KdPkfftQSxKErO-o-Yhw">Baidu Yun (code:a4lq)</a>
+
   [content.archive]
     enable = true
     text = "View our project in Github"
