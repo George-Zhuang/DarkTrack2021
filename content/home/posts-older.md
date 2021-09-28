@@ -31,7 +31,7 @@ subtitle = ""
     author = ""
     exclude_featured = false
     
-{{< icon name="download" pack="fas" >}} <a href="https://pan.baidu.com/s/1x8KdPkfftQSxKErO-o-Yhw">Baidu Yun (code:a4lq)</a>
+
 
   [content.archive]
     enable = true
@@ -72,3 +72,5 @@ subtitle = ""
 # Customize the section spacing. Order is top, right, bottom, left.
 padding = ["1.9rem", "0", "1.9rem", "0"]  
 +++
+
+{{< icon name="download" pack="fas" >}} <a href="https://pan.baidu.com/s/1x8KdPkfftQSxKErO-o-Yhw">Baidu Yun (code:a4lq)</a>
