@@ -73,4 +73,4 @@ subtitle = ""
 padding = ["1.9rem", "0", "1.9rem", "0"]  
 +++
 
-{{< icon name="download" pack="fas" >}} <a href="https://pan.baidu.com/s/1x8KdPkfftQSxKErO-o-Yhw">Baidu Yun (code:a4lq)</a>
+{{< icon name="download" pack="fas" >}} <a href="https://pan.baidu.com/s/1LQ8MrfGRiW4A_gGWIU2yqQ">Baidu Yun (code:v4rr)</a>
